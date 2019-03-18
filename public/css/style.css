@@ -1,0 +1,106 @@
+td>p{
+    margin-top: 68px;
+}
+
+td>p.edit{
+    margin-top: 5px;
+}
+
+.edit_available {
+
+    position: relative;
+    top: 0px;
+    left: 100px;
+    width: 310px;
+    height: 200px;
+    display: block;
+}
+
+.active {
+    background-color: #dbdbdb;
+}
+
+.table {
+    width: 75%;
+    margin-left: 15px;
+}
+
+.edit_table {
+    width: 100%;
+    margin-left: 15px;
+}
+
+.btn {
+    margin-top: 63px;
+}
+
+.thead-dark {
+    text-align: center;
+}
+
+select.form-control {
+    position: relative;
+    top: 4px;
+    left: 5px;
+    width: 85px;
+    display: block;
+}
+
+.input-form{
+    position: relative;
+    top: 10px;
+    left: 5px;
+    width: 25px;
+    height: 25px;
+    display: block;
+    border: none;
+}
+
+.row {
+    position: relative;
+    top: 75px;
+    left: 45px;
+    width: 250px;
+    height: 46px;
+}
+
+.flash{
+    margin-left: 30%;
+    margin-top: 15px;
+}
+
+.alert {
+    height: 35px;
+    display: block;
+}
+
+.alert p {
+    margin-top: -7px;
+    text-align: center;
+}
+
+.edit_container{
+    position: relative;
+    top: 25px;
+    left: 2px;
+}
+
+#edit_btn {
+    position: absolute;
+    bottom: 3px;
+    right: 5px;
+    width: 100px;
+    height: 40px;
+    display: block;
+}
+.available_title {
+    position: relative;
+    top: 18px;
+    left: 15px;
+}
+
+.form-group {
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
